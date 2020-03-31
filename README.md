@@ -25,4 +25,5 @@
 
 * Josef Fürlinger
 * Dies ist kleines Demo-Projekt mit Greenfoot um die ersten Schritte mit der IDE zu demonstrieren.
-2. GIF zum Projekt erstellen (z.B. [ScreenToGif](https://www.screentogif.com/))
+
+![Demo](./assets/00-getting-started/demo.gif)
