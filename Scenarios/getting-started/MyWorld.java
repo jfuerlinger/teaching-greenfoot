@@ -11,6 +11,7 @@ public class MyWorld extends World
 
     private Ball _ball;
     private Board _board;
+    private Block[] _blocks;
 
     /**
      * Constructor for objects of class MyWorld.
@@ -27,9 +28,11 @@ public class MyWorld extends World
 
         _board = new Board();
         _board.getImage().scale(100, 20);
-        int posBoardX = (getWidth() / 2) - (_board.getImage().getWidth() / 2);
-        int posBoardY = getHeight() - _board.getImage().getHeight() - 10;
+        int posBoardX = getWidth() / 2;
+        int posBoardY = getHeight() - 15;
         this.addObject(_board, posBoardX, posBoardY);
+        
+        initBlocks();
 
     }
 
@@ -43,4 +46,10 @@ public class MyWorld extends World
             _board.setLocation(posBoardX, posBoardY);
         }
     }
+    
+    private void initBlocks() {
+        
+    }
+    
+    
 }
