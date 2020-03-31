@@ -19,6 +19,18 @@
 3. GIF zum Projekt erstellen (z.B. [ScreenToGif](https://www.screentogif.com/))
 
 
+## Projekt "The Castle Story"
+
+![Logo](./assets/game.png)
+
+* Dominik Ortbauer
+* Simon Sixt
+
+In diesem Spiel geht es darum deine Gegner davon abzuhalten deine Burg einzunehmen und dich deiner Habseligkeiten zu berauben.
+
+![Demo](./assets/the-castle-story/game.gif)
+
+
 ## Projekt "Getting Started"
 
 ![Logo](./assets/00-getting-started/logo.png)
