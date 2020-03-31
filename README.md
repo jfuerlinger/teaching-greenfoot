@@ -2,7 +2,7 @@
 
 # Material
 
-1. [Install Greenfoot](https://blogs.kcl.ac.uk/proged/2012/01/03/joc-installation)
+1. [Installation](https://blogs.kcl.ac.uk/proged/2012/01/03/joc-installation)
 1. [Joy of Code](https://www.greenfoot.org/doc/joy-of-code)
 2. [YouTube Channel](https://www.youtube.com/user/18km)
 
