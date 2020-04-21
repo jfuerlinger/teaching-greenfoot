@@ -15,7 +15,7 @@
 
 ![Logo](./assets/game.png)
 
-* Floarian Röbl
+* Florian Röbl
 * Christoph Tumfart
 
 Ein Spieler steuert die Biene mit den WASD-Tasten und der andere das Nilpferd mit den Pfeiltasten. Zu Beginn hat jedes Tier 10 "Energie" und bei jedem Feld, das man fährt wird ein Energiepunkt abgezogen. Wenn ein Tier auf eine Erdbeere trifft, bekommt es wieder 4 Energiepunkte dazu. Wenn ein Tier keine Energie mehr hat, kann es nicht mehr weiterfahren. Der Spieler, der zum Schluss die meisten Erdbeeren gefressen hat, gewinnt.
