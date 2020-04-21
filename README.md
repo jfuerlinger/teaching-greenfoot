@@ -10,13 +10,17 @@
 # Aktuelle Projekte
 
 
-## Projekt "Shell Shock Live"
+## Projekt "shellShockLive-copy"
 
 ![Logo](./assets/game.png)
 
 * Elias Kramer
 
-TODO
+Das Spiel ist eine Kopie von ShellShockLive.
+
+Es geht darum andere Panzer abzuschießen und auszuschalten. Man hat einen begrenzten Tank und man kann die Winkel und Kraft, mit der man schießt selbst einstellen.
+
+Geplant sind noch eine Oberfläche, wo die Panzer fahren können und verschiedene Waffen.
 
 ![Demo](./assets/shell-shock-live/game.gif)
 
