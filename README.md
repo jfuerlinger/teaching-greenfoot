@@ -9,10 +9,20 @@
 
 # Aktuelle Projekte
 
+## Projekt "Tank vs. Tank"
+
+![Logo](./assets/game.png)
+
+* Lawrence Federsel
+
+Der Spieler fährt auf der 2D Welt herum und muss den gegnerischen Panzer treffen. Nach 5 Treffern hat man gewonnen und nach 3 Schüssen muss man nachladen (ca. 1Sec) auf dem Feld stehen zudem Hindernisse (Häuser, etc.).
+
+![Demo](./assets/tank-vs-tank/game.gif)
+
 
 ## Projekt "shellShockLive-copy"
 
-![Logo](./assets/game.png)
+![Logo](./assets/shell-shock-live/icon.png)
 
 * Elias Kramer
 
