@@ -10,6 +10,17 @@
 # Aktuelle Projekte
 
 
+## Projekt "Shell Shock Live"
+
+![Logo](./assets/game.png)
+
+* Elias Kramer
+
+TODO
+
+![Demo](./assets/shell-shock-live/game.gif)
+
+
 
 ## Projekt "Animal battle"
 
