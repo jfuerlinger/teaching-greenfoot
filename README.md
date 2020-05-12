@@ -9,7 +9,7 @@
 
 # Aktuelle Projekte
 
-## Projekt "Tower Defense"
+## Projekt "Space Invaders"
 
 ![Logo](./assets/game.png)
 
@@ -18,7 +18,7 @@
 
 In unserem Spiel muss man ein Raumschiff steuern, mit dem man Gegner abschießen kann. Die Gegner spawnen zufällig und sind verschieden schnell und haben verschieden viele Lebenspunkte. Geplant ist noch eine Score-Anzeige, eine "Health-Bar" und ein Boss.
 
-![Demo](./assets/tower-defense/game.gif)
+![Demo](./assets/space-invaders/game.gif)
 
 
 ## Projekt "Tank vs. Tank"
