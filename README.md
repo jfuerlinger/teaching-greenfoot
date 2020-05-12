@@ -16,8 +16,7 @@
 * Jonas Lorenz
 * Lukas Trimbacher
 
-Der Spieler steuert einen Avatar (Bogenschützen) und muss in verschiedenen Wellen die Gegner davon abhalten die den Turm zu zerstören. 
-Das Spiel steht erst n den Startöchern da es eine Weile gedauert hat bis der eigens gezeichnete Hintergrund die Burg und der Avatar (der wahrscheinlich noch geändert wird) zustande kamen. 
+In unserem Spiel muss man ein Raumschiff steuern, mit dem man Gegner abschießen kann. Die Gegner spawnen zufällig und sind verschieden schnell und haben verschieden viele Lebenspunkte. Geplant ist noch eine Score-Anzeige, eine "Health-Bar" und ein Boss.
 
 ![Demo](./assets/tower-defense/game.gif)
 
