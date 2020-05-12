@@ -9,6 +9,19 @@
 
 # Aktuelle Projekte
 
+## Projekt "Tower Defense"
+
+![Logo](./assets/game.png)
+
+* Jonas Lorenz
+* Lukas Trimbacher
+
+Der Spieler steuert einen Avatar (Bogenschützen) und muss in verschiedenen Wellen die Gegner davon abhalten die den Turm zu zerstören. 
+Das Spiel steht erst n den Startöchern da es eine Weile gedauert hat bis der eigens gezeichnete Hintergrund die Burg und der Avatar (der wahrscheinlich noch geändert wird) zustande kamen. 
+
+![Demo](./assets/tower-defense/game.gif)
+
+
 ## Projekt "Tank vs. Tank"
 
 ![Logo](./assets/game.png)
