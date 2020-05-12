@@ -15,7 +15,7 @@
 
 * Lawrence Federsel
 
-Der Spieler fährt auf der 2D Welt herum und muss den gegnerischen Panzer treffen. Nach 5 Treffern hat man gewonnen und nach 3 Schüssen muss man nachladen (ca. 1Sec) auf dem Feld stehen zudem Hindernisse (Häuser, etc.).
+Man fährt auf einer 2D Welt mit einem Panzer und muss den gegnerischen Panzer treffen. Es ist das Ziel den gegnerischen Panzer zu zerstören. Nach 5 Treffern hat man gewonnen und nach 3 Schüssen muss man nachladen (ca. 1 Sec). Auf dem Feld stehen Hindernisse (Zum Beispiel: ein Haus). Jeder Panzer hat 100 Health Points (HP).
 
 ![Demo](./assets/tank-vs-tank/game.gif)
 
