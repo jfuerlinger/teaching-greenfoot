@@ -55,7 +55,14 @@ Geplant sind noch eine Oberfläche, wo die Panzer fahren können und verschieden
 * Florian Röbl
 * Christoph Tumfart
 
-Ein Spieler steuert die Biene mit den WASD-Tasten und der andere das Nilpferd mit den Pfeiltasten. Zu Beginn hat jedes Tier 10 "Energie" und bei jedem Feld, das man fährt wird ein Energiepunkt abgezogen. Wenn ein Tier auf eine Erdbeere trifft, bekommt es wieder 4 Energiepunkte dazu. Wenn ein Tier keine Energie mehr hat, kann es nicht mehr weiterfahren. Der Spieler, der zum Schluss die meisten Erdbeeren gefressen hat, gewinnt.
+Ein Spieler steuert die Biene mit den `WASD`-Tasten und der andere das Nilpferd mit den Pfeiltasten.
+Zu Beginn hat jedes Tier 10 "Energie" und bei jedem Feld, das man fährt wird ein Energiepunkt abgezogen.
+Wenn ein Tier auf eine Erdbeere trifft, bekommt es wieder 4 Energiepunkte dazu, bei einer Banane 6 Energiepunkte.
+Wenn ein Tier keine Energie mehr hat, kann es nicht mehr weiterfahren.
+Für jede gefressene Erdbeere bekommt man einen Punkt und für jede Banane 3 Punkte.
+Der Spieler, der zum Schluss die meisten Punkte hat, gewinnt die Runde.
+Man kann am Anfang des Spiels noch wählen, ob man Best of 1, 3 oder 5 spielen möchte.
+
 
 ![Demo](./assets/animal-battle/game.gif)
 
