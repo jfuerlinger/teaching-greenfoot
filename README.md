@@ -77,6 +77,11 @@ In diesem Spiel geht es darum deine Gegner davon abzuhalten deine Burg einzunehm
 
 ![Demo](./assets/the-castle-story/game.gif)
 
+### Changelog
+
+* Zwei neue Waffen und einen neuen Gegener hinzugefügt
+* Initialimplementierung
+
 
 ## Projekt "Getting Started"
 
