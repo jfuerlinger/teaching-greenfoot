@@ -9,16 +9,28 @@
 
 # Aktuelle Projekte
 
-## Projekt "Space Invaders"
+## Projekt "Chaosroad"
 
 ![Logo](./assets/game.png)
 
 * Jonas Lorenz
 * Lukas Trimbacher
 
-In unserem Spiel muss man ein Raumschiff steuern, mit dem man Gegner abschießen kann. Die Gegner spawnen zufällig und sind verschieden schnell und haben verschieden viele Lebenspunkte. Geplant ist noch eine Score-Anzeige, eine "Health-Bar" und ein Boss.
+Man steuert einen Panzer der durch die Leertaste Kugeln schießt. Man muss die Gegner daran hindern an einem vorbei zu kommen sonst verliert man Leben.
+Es gibt verschiedene Gegner: Das Auto ist das schwächste und kann nur eine Kugel wegstecken, während der LKW schon 3 schluckt aber auch langsamer ist.
+Der dicke Bowser ist ein "Boss" er stirbt erst nach zehn getroffenen Kugeln ist aber auch sehr langsam. Der Rettungswagen sollte nicht abgeschossen werden, denn er gibt einem wieder Leben sollte er den Panzer passieren, er hält nur eine Kugel aus und kann die Chance auf einen höheren High-Score sein.
 
-![Demo](./assets/space-invaders/game.gif)
+In Planung: Wir wollen noch einen halbwegs guten Start und Endbildschirm einfügen, Sounds, Expolsionsanimationen…
+
+![Demo](./assets/chaos-road/game.gif)
+
+### Changelog
+
+* Änderung des Design
+  * Neuer Hintergrund
+  * Mit dem Schlussbild begonnen
+* 'Play again'-Taste implementiert
+* Krankenwagen eingeführt.
 
 
 ## Projekt "Tank vs. Tank"
@@ -83,14 +95,15 @@ In diesem Spiel geht es darum deine Gegner davon abzuhalten deine Burg einzunehm
 * Initialimplementierung
 
 
-## Projekt "Getting Started"
+## Projekt "Gravity Run"
 
 ![Logo](./assets/00-getting-started/logo.png)
 
-* Josef Fürlinger
-* Dies ist kleines Demo-Projekt mit Greenfoot um die ersten Schritte mit der IDE zu demonstrieren.
+* Sebastian Muric
 
-![Demo](./assets/00-getting-started/demo.gif)
+Im folgenden Spiel geht es darum den goldenen Stern einzusammeln. Doch dafür werden dir viele Gegner in den Weg gestellt, die man entsprechend töten muss um ans Ziel zu gelangen.
+
+![Demo](./assets/gravity-run/demo.gif)
 
 
 ## Projektvorlage "Name 1"
