@@ -78,6 +78,16 @@ Man kann am Anfang des Spiels noch wählen, ob man Best of 1, 3 oder 5 spielen m
 
 ![Demo](./assets/animal-battle/game.gif)
 
+### Changelog
+
+* Der Spielstands-Zahlen vom Übergangsbildschirm haben jetzt keine eigene Klasse
+* Der Bildschirm nach einem Spiel (Bee won, Hippo won oder Draw) wurde überarbeitet.
+Dieser Bildschirm war davor ein Hintergrund und jetzt ist es eine eigene World – somit verschwinden alle Objekte aus dem Hintergrund.
+* Man kann die Tiere schneller bewegen
+* Das „Best Of System“ funktioniert jetzt – das Spiel endet nach der gewünschten Anzahl an Spielen.
+* Bei Spielende wird der Sieger gezeigt.
+
+
 ## Projekt "The Castle Story"
 
 ![Logo](./assets/game.png)
