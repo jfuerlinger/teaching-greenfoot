@@ -26,6 +26,10 @@ In Planung: Wir wollen noch einen halbwegs guten Start und Endbildschirm einfüg
 
 ### Changelog
 
+* Wir haben  2 neue Actor eingefügt einmal den Bonus Actor welcher ungefähr alle 25 Sekunden kommt, ist dieser auf dem Feld muss man "b" drücken um 50 extra Punkte zu erhalten. Drückt man kein "b"  verschwindet der Actor verliert man keine Leben aber die Chance auf extra Punkte. Der zweite Actor ist die Rakete wegen der man nun auch vor und zurück fahren kann. Sie kommt als einzige von unten und man verliert nur Leben sollte diese einen Berühren, erreicht sie das obere Ende der Straße verliert man keine Leben und man bekommt einen Punkt.
+* Wir haben nun Sounds wie ein Schuss- und Explosionsgeräusch, Hintergrundmusik und andere Sounds eingefügt.
+* Ebenfalls habe ich einen Score Counter für den Ende des Spiels hinzufügt der einem den gerade erlangten und den Highscore anzeigt.
+* Der Highscore wird nur so lange gespeichert bis man da Spiel zurücksetzt.
 * Änderung des Design
   * Neuer Hintergrund
   * Mit dem Schlussbild begonnen
@@ -84,7 +88,7 @@ Man kann am Anfang des Spiels noch wählen, ob man Best of 1, 3 oder 5 spielen m
 * Der Bildschirm nach einem Spiel (Bee won, Hippo won oder Draw) wurde überarbeitet.
 Dieser Bildschirm war davor ein Hintergrund und jetzt ist es eine eigene World – somit verschwinden alle Objekte aus dem Hintergrund.
 * Man kann die Tiere schneller bewegen
-* Das „Best Of System“ funktioniert jetzt – das Spiel endet nach der gewünschten Anzahl an Spielen.
+* Das "Best Of System" funktioniert jetzt – das Spiel endet nach der gewünschten Anzahl an Spielen.
 * Bei Spielende wird der Sieger gezeigt.
 
 
@@ -109,11 +113,28 @@ In diesem Spiel geht es darum deine Gegner davon abzuhalten deine Burg einzunehm
 
 ![Logo](./assets/00-getting-started/logo.png)
 
-* Sebastian Muric
+* Pichl Walter
+* Muric Sebastian
 
-Im folgenden Spiel geht es darum den goldenen Stern einzusammeln. Doch dafür werden dir viele Gegner in den Weg gestellt, die man entsprechend töten muss um ans Ziel zu gelangen.
 
-![Demo](./assets/gravity-run/demo.gif)
+Dieses Spiel ist ein ganz normales jump and run game wie man es aus dem Alltag kennt. Auf euch warten 3 herausfordernde Level mit verschiedenen Features. Man kann Gegner abschießen um sich den weg freizuräumen. Spannend wird es auch für dir Controller Spieler, denn man kann dieses Spiel nicht nur mit Maus und Tastatur spielen, sondern wir geben euch auch die Möglichkeit das Spiel mit dem Controller zu spielen. Im Spielordner befindet sich eine README.txt Datei die euch alles erklären wird um sicher ins Spiel zu starten.
+
+![Demo](./assets/gravity-run/game.gif)
+
+
+## Projekt "Line Jumper"
+
+![Logo](./assets/00-getting-started/logo.png)
+
+* Theo Stherer
+
+Ein Jump and Run Spiel bei dem man Münzen einsammeln muss mit mehreren Leveln.
+
+## Changelog
+
+* Erstes Level und Startbildschirm fertig ohne die Münzen Zweites Level fertig ohne Münzen Victory Screen fertig ohne gutes Design Charakter design abgeschlossen.
+
+![Demo](./assets/line-jumper/game.gif)
 
 
 ## Projektvorlage "Name 1"
