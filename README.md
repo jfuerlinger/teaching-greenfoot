@@ -71,19 +71,20 @@ Geplant sind noch eine Oberfläche, wo die Panzer fahren können und verschieden
 * Florian Röbl
 * Christoph Tumfart
 
-Ein Spieler steuert die Biene mit den `WASD`-Tasten und der andere das Nilpferd mit den Pfeiltasten.
-Zu Beginn hat jedes Tier 10 "Energie" und bei jedem Feld, das man fährt wird ein Energiepunkt abgezogen.
-Wenn ein Tier auf eine Erdbeere trifft, bekommt es wieder 4 Energiepunkte dazu, bei einer Banane 6 Energiepunkte.
-Wenn ein Tier keine Energie mehr hat, kann es nicht mehr weiterfahren.
-Für jede gefressene Erdbeere bekommt man einen Punkt und für jede Banane 3 Punkte.
-Der Spieler, der zum Schluss die meisten Punkte hat, gewinnt die Runde.
-Man kann am Anfang des Spiels noch wählen, ob man Best of 1, 3 oder 5 spielen möchte.
+Ein Spieler steuert die Biene mit den WASD-Tasten und der andere das Nilpferd mit den Pfeiltasten.
+Zu Beginn hat jedes Tier 10 “Energie” und bei jedem Feld, das man fährt wird ein Energiepunkt abgezogen. Wenn ein Tier auf eine Erdbeere trifft, bekommt es wieder 3 Energiepunkte und 3 Scorepunkte dazu, bei einer Banane 5 Energiepunkte und 5 Scorepunkte. Wenn ein Tier keine Energie mehr hat, werden 10 Scorepunkte abgezogen und die Energie wird wieder auf 10 zurückgesetzt, man kann jedoch mit den Scorepunkten nicht in den Minusbereich kommen. Der Spieler, der als Erster 50 Scorepunkte erreicht hat, gewinnt die Runde. Man kann am Anfang des Spiels noch wählen, ob man Best of 1, 3 oder 5 spielen möchte.
 
 
 ![Demo](./assets/animal-battle/game.gif)
 
 ### Changelog
 
+* Man kann die Tiere schneller bewegen
+* Neuer Hintergrund
+* Man bekommt für eine Erdbeere jetzt nur noch 3 Scorepunkte und für eine Banane 5
+* Wenn ein Spieler keine Energie mehr hat, wird seine Energie wieder auf 10 zurückgesetzt, er bekommt aber 10 Scorepunkte abgezogen
+* Der Erste Spieler, der 50 Scorepunkte erreicht, gewinnt
+* Neue Spielende Animation mit Gif
 * Der Spielstands-Zahlen vom Übergangsbildschirm haben jetzt keine eigene Klasse
 * Der Bildschirm nach einem Spiel (Bee won, Hippo won oder Draw) wurde überarbeitet.
 Dieser Bildschirm war davor ein Hintergrund und jetzt ist es eine eigene World – somit verschwinden alle Objekte aus dem Hintergrund.
@@ -135,6 +136,25 @@ Ein Jump and Run Spiel bei dem man Münzen einsammeln muss mit mehreren Leveln.
 * Erstes Level und Startbildschirm fertig ohne die Münzen Zweites Level fertig ohne Münzen Victory Screen fertig ohne gutes Design Charakter design abgeschlossen.
 
 ![Demo](./assets/line-jumper/game.gif)
+
+
+## Projekt "Cookie Clicker"
+
+![Logo](./assets/cookie-clicker/logo.png)
+
+* Lorenz Horvat
+* Daniel Höbinger
+
+In Cookie Clicker geht es darum auf den Cookie zu clicken und damit Cookies zu bekommen.
+
+Mit diesen Cookies kann man sich anschließend Upgrades kaufen die dann automatisch Cookies generieren.
+
+## Changelog
+
+* Keine Einträge.
+
+![Demo](./assets/cookie-clicker/game.gif)
+
 
 
 ## Projektvorlage "Name 1"
