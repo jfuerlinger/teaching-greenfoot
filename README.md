@@ -127,7 +127,7 @@ Dieses Spiel ist ein ganz normales jump and run game wie man es aus dem Alltag k
 
 ![Logo](./assets/00-getting-started/logo.png)
 
-* Theo Stherer
+* Theo Stehrer
 
 Ein Jump and Run Spiel bei dem man Münzen einsammeln muss mit mehreren Leveln.
 
