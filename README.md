@@ -156,6 +156,25 @@ Mit diesen Cookies kann man sich anschließend Upgrades kaufen die dann automati
 ![Demo](./assets/cookie-clicker/game.gif)
 
 
+## Projekt "Mini Games"
+
+![Logo](./assets/00-getting-started/logo.png)
+
+* Alexander Binder
+* Fritz Schernhammer
+
+Im ersten Spiel geht es darum, auf den Charakter zu klicken und somit den Counter zu erhöhen. Mit den Counterpunkten kann man sich dann Hilfsmittel, in diesem Fall eine Oma, kaufen, die nach gewisser Zeit Counterpunkte generieren.
+
+![Demo](./assets/mini-games/game1.gif)
+
+Im zweiten Spiel geht es darum, mit einem Charakter ein Jump ‚n‘ Run zu bewältigen. Wenn man jedoch von einem roten Block getroffen wird, verliert man. Das Spiel hat außerdem mehrere Level.
+
+![Demo](./assets/mini-games/game2.gif)
+
+## Changelog
+
+* Keine Einträge.
+
 
 ## Projektvorlage "Name 1"
 
