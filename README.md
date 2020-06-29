@@ -133,7 +133,10 @@ Ein Jump and Run Spiel bei dem man Münzen einsammeln muss mit mehreren Leveln.
 
 ## Changelog
 
-* Erstes Level und Startbildschirm fertig ohne die Münzen Zweites Level fertig ohne Münzen Victory Screen fertig ohne gutes Design Charakter design abgeschlossen.
+* Hintergründe für alle Level fertig. Victory Screen fertig.
+* Sammelbare Münzen + DeathCounter fertig
+* Erstes Level und Startbildschirm fertig ohne die Münzen
+* Zweites Level fertig ohne Münzen Victory Screen fertig ohne gutes Design Charakter design abgeschlossen.
 
 ![Demo](./assets/line-jumper/game.gif)
 
