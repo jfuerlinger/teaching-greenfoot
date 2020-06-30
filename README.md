@@ -95,7 +95,7 @@ Dieser Bildschirm war davor ein Hintergrund und jetzt ist es eine eigene World â
 
 ## Projekt "The Castle Story"
 
-![Logo](./assets/game.png)
+![Logo](./assets/the-castle-story/icon.png)
 
 * Dominik Ortbauer
 * Simon Sixt
